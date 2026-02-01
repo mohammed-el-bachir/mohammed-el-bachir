@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammed-el-bachir
+- 👋 Hi, I’m @Med-B
 - 👀 I’m interested in ODOO
 - 🌱 I’m currently learning ODOO
 - 💞️ I’m looking to collaborate on ODOO
